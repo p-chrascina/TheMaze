@@ -1,0 +1,1032 @@
+﻿Log file open, 10/17/20 17:16:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheMaze_PChrascina
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.266765
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.866s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Felidre" -epicuserid=3d816f00dd494cedb2b85bce78c9e1b8 -epiclocale=en
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.10.17-15.16.26:047][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.17-15.16.26:047][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.17-15.16.26:211][  0]LogHAL: Display: Platform has ~ 8 GB [8374956032 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.17-15.16.26:211][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.10.17-15.16.26:211][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.17-15.16.26:267][  0]LogInit: Computer: LAPTOP-4EKRA7ME
+[2020.10.17-15.16.26:267][  0]LogInit: User: Felidre
+[2020.10.17-15.16.26:267][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.17-15.16.26:267][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.17-15.16.26:267][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.10.17-15.16.26:267][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.17-15.16.26:267][  0]LogMemory: Process Physical Memory: 101.09 MB used, 101.09 MB peak
+[2020.10.17-15.16.26:267][  0]LogMemory: Process Virtual Memory: 84.13 MB used, 84.13 MB peak
+[2020.10.17-15.16.26:267][  0]LogMemory: Physical Memory: 4973.07 MB used,  3013.91 MB free, 7986.98 MB total
+[2020.10.17-15.16.26:267][  0]LogMemory: Virtual Memory: 4609.17 MB used,  3013.91 MB free, 134217728.00 MB total
+[2020.10.17-15.16.27:356][  0]LogInit: Using OS detected language (en-GB).
+[2020.10.17-15.16.27:356][  0]LogInit: Using OS detected locale (en-GB).
+[2020.10.17-15.16.27:358][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.10.17-15.16.34:631][  0]LogStreaming: Display: Took  7.274s to InitEngineTextLocalization.
+[2020.10.17-15.16.34:631][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.17-15.16.35:745][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.17-15.16.35:745][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.17-15.16.40:444][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.17-15.16.40:444][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.17-15.16.40:597][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2020.10.17-15.16.40:597][  0]LogD3D11RHI:       4055/0/3993 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.17-15.16.40:650][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.10.17-15.16.40:650][  0]LogD3D11RHI:       128/0/3993 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.17-15.16.40:653][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.17-15.16.40:653][  0]LogD3D11RHI:       0/0/3993 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.17-15.16.40:653][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.17-15.16.40:715][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.17-15.16.40:715][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2020.10.17-15.16.40:715][  0]LogWindows: EnumDisplayDevices:
+[2020.10.17-15.16.40:715][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.10.17-15.16.40:715][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.10.17-15.16.40:716][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.10.17-15.16.40:716][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.10.17-15.16.40:716][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2020.10.17-15.16.40:716][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.10.17-15.16.40:716][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.10.17-15.16.40:716][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.10.17-15.16.40:798][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.17-15.16.40:812][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.17-15.16.40:814][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Intermediate/Shaders/WorkingDirectory/17360/).
+[2020.10.17-15.16.40:814][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Felidre/AppData/Local/Temp/UnrealShaderWorkingDir/E8FCE14445EDF73CC4FD7FBA5CCCC169/'.
+[2020.10.17-15.16.42:328][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.10.17-15.16.42:400][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.10.17-15.16.42:467][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.10.17-15.16.42:543][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.10.17-15.16.42:752][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.10.17-15.16.42:834][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.10.17-15.16.42:941][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.10.17-15.16.43:052][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.10.17-15.16.43:161][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:359][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:360][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:360][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.17-15.16.43:479][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.10.17-15.16.43:828][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.10.17-15.16.43:828][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.10.17-15.16.43:890][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.10.17-15.16.43:890][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.10.17-15.16.44:120][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.10.17-15.16.44:220][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.10.17-15.16.44:341][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.10.17-15.16.44:532][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.10.17-15.16.44:597][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.10.17-15.16.44:598][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.17-15.16.46:160][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.17-15.16.46:160][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.17-15.16.46:160][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.17-15.16.47:695][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.17-15.16.47:759][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Felidre/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.10.17-15.16.47:760][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Felidre/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.10.17-15.16.47:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.17-15.16.47:760][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.17-15.16.47:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.17-15.16.47:760][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.17-15.16.47:791][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.17-15.16.47:803][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Felidre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.17-15.16.47:803][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.17-15.16.47:803][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.17-15.16.47:825][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.17-15.16.47:827][  0]LogSlate: Using FreeType 2.6.0
+[2020.10.17-15.16.47:863][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.17-15.16.49:355][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2020.10.17-15.16.49:948][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.17-15.16.51:742][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.10.17-15.16.51:747][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.10.17-15.16.51:747][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.17-15.16.51:747][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.17-15.16.51:747][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.10.17-15.16.51:769][  0]LogNetVersion: TheMaze_PChrascina 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1939499750)
+[2020.10.17-15.16.52:509][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.178626 seconds
+[2020.10.17-15.16.52:516][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2020.10.17-15.16.52:516][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2020.10.17-15.16.52:516][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.17-15.16.53:798][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.17-15.16.53:824][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.17-15.16.54:119][  0]SourceControl: Source control is disabled
+[2020.10.17-15.16.54:119][  0]SourceControl: Source control is disabled
+[2020.10.17-15.16.54:120][  0]SourceControl: Source control is disabled
+[2020.10.17-15.16.54:122][  0]SourceControl: Source control is disabled
+[2020.10.17-15.16.54:374][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.17-15.16.54:444][  0]LogOcInput: OculusInput pre-init called
+[2020.10.17-15.16.54:517][  0]LogEngine: Initializing Engine...
+[2020.10.17-15.16.54:518][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.17-15.16.54:519][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.10.17-15.16.54:519][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.10.17-15.16.54:520][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.10.17-15.16.54:520][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.10.17-15.16.54:772][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.17-15.16.54:788][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.17-15.16.54:818][  0]LogInit: XAudio2 using 'Słuchawki HUAWEI (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.17-15.16.54:833][  0]LogInit: FAudioDevice initialized.
+[2020.10.17-15.16.54:834][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.17-15.16.55:602][  0]LogDerivedDataCache: Saved boot cache 0.77s 71MB C:/Users/Felidre/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.10.17-15.16.55:612][  0]LogInit: Texture streaming: Enabled
+[2020.10.17-15.16.55:705][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.17-15.16.55:727][  0]LogInit: Transaction tracking system initialized
+[2020.10.17-15.16.55:756][  0]BlueprintLog: New page: Editor Load
+[2020.10.17-15.16.56:162][  0]LocalizationService: Localization service is disabled
+[2020.10.17-15.16.56:668][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/' took 0.01s
+[2020.10.17-15.16.56:668][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.17-15.16.56:668][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.17-15.16.56:668][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.10.17-15.16.56:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.10.17-15.16.56:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.10.17-15.16.56:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.10.17-15.16.56:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.10.17-15.16.57:062][  0]SourceControl: Source control is disabled
+[2020.10.17-15.16.57:849][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files (x86)/Epic Games/UE_4.20/FeaturePacks/StarterContent.upack)
+[2020.10.17-15.17.00:357][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.10.17-15.17.00:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.10.17-15.17.00:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.10.17-15.17.01:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.10.17-15.17.01:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.10.17-15.17.01:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.10.17-15.17.01:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.10.17-15.17.01:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.10.17-15.17.01:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.10.17-15.17.01:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.10.17-15.17.01:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.10.17-15.17.01:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.10.17-15.17.02:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.10.17-15.17.02:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.10.17-15.17.02:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.10.17-15.17.03:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.10.17-15.17.03:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.10.17-15.17.03:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.10.17-15.17.03:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Fire01.uasset"
+[2020.10.17-15.17.03:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.10.17-15.17.04:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.10.17-15.17.05:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.10.17-15.17.05:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Light01.uasset"
+[2020.10.17-15.17.05:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.10.17-15.17.06:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Light02.uasset"
+[2020.10.17-15.17.06:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.10.17-15.17.06:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.10.17-15.17.06:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.10.17-15.17.06:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.10.17-15.17.09:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.10.17-15.17.13:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.10.17-15.17.13:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.10.17-15.17.15:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.10.17-15.17.17:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.10.17-15.17.18:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Steam01.uasset"
+[2020.10.17-15.17.18:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.10.17-15.17.19:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.10.17-15.17.19:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.10.17-15.17.19:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.10.17-15.17.19:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.10.17-15.17.19:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.10.17-15.17.19:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.10.17-15.17.20:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.10.17-15.17.20:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.10.17-15.17.20:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.10.17-15.17.21:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.10.17-15.17.21:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.10.17-15.17.21:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.10.17-15.17.21:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.10.17-15.17.21:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.10.17-15.17.22:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.10.17-15.17.22:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.10.17-15.17.29:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.10.17-15.17.30:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.10.17-15.17.31:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.10.17-15.17.31:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.10.17-15.17.34:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.10.17-15.17.35:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/StarterMap.umap"
+[2020.10.17-15.17.41:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.10.17-15.17.41:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.10.17-15.17.41:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.10.17-15.17.41:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.10.17-15.17.41:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.10.17-15.17.42:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.10.17-15.17.42:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.10.17-15.17.42:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.10.17-15.17.42:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.10.17-15.17.42:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.10.17-15.17.43:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.10.17-15.17.43:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.10.17-15.17.43:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.10.17-15.17.44:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.10.17-15.17.44:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.10.17-15.17.44:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.10.17-15.17.45:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.10.17-15.17.45:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.10.17-15.17.45:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.10.17-15.17.45:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.10.17-15.17.45:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.10.17-15.17.45:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.10.17-15.17.46:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.10.17-15.17.46:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.10.17-15.17.46:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.10.17-15.17.46:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.10.17-15.17.46:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.10.17-15.17.46:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.10.17-15.17.46:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.10.17-15.17.47:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.10.17-15.17.47:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.10.17-15.17.47:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.10.17-15.17.47:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.10.17-15.17.48:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.10.17-15.17.48:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.10.17-15.17.48:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.10.17-15.17.48:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.10.17-15.17.48:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.10.17-15.17.49:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.10.17-15.17.49:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.10.17-15.17.49:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.10.17-15.17.49:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.10.17-15.17.49:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.10.17-15.17.50:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.10.17-15.17.50:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.10.17-15.17.50:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.10.17-15.17.51:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.10.17-15.17.51:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.10.17-15.17.51:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.10.17-15.17.51:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.10.17-15.17.51:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.10.17-15.17.51:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.10.17-15.17.51:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.10.17-15.17.52:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.10.17-15.17.52:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.10.17-15.17.52:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.10.17-15.17.52:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.10.17-15.17.52:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.10.17-15.17.52:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.10.17-15.17.52:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.10.17-15.17.52:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.10.17-15.17.53:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.10.17-15.17.53:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.10.17-15.17.53:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.10.17-15.17.54:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.10.17-15.17.54:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_Door.uasset"
+[2020.10.17-15.17.54:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.10.17-15.17.54:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.10.17-15.17.54:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.10.17-15.17.54:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.10.17-15.17.56:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.10.17-15.17.56:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.10.17-15.17.56:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.10.17-15.17.56:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.10.17-15.17.57:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.10.17-15.17.57:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.10.17-15.17.57:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.10.17-15.17.58:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.10.17-15.17.58:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.10.17-15.17.58:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.10.17-15.17.58:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.10.17-15.17.58:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.10.17-15.17.58:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.10.17-15.17.58:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.10.17-15.17.58:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.10.17-15.17.58:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.10.17-15.17.59:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.10.17-15.17.59:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.10.17-15.17.59:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.10.17-15.17.59:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.10.17-15.17.59:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.10.17-15.17.59:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.10.17-15.17.59:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.10.17-15.18.00:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.10.17-15.18.00:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.10.17-15.18.00:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.10.17-15.18.00:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.10.17-15.18.00:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.10.17-15.18.00:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.10.17-15.18.01:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.10.17-15.18.01:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.10.17-15.18.01:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.10.17-15.18.01:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.10.17-15.18.02:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.10.17-15.18.02:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.10.17-15.18.02:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.10.17-15.18.02:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.10.17-15.18.02:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.10.17-15.18.02:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.10.17-15.18.02:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.10.17-15.18.07:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.10.17-15.18.15:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.10.17-15.18.19:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.10.17-15.18.24:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.10.17-15.18.27:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.10.17-15.18.28:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.10.17-15.18.37:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.10.17-15.18.42:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.10.17-15.18.49:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.10.17-15.18.54:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.10.17-15.18.57:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.10.17-15.19.01:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.10.17-15.19.06:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.10.17-15.19.06:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.10.17-15.19.06:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.10.17-15.19.07:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.10.17-15.19.07:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.10.17-15.19.07:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.10.17-15.19.08:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.10.17-15.19.09:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.10.17-15.19.10:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.10.17-15.19.14:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.10.17-15.19.15:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.10.17-15.19.16:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.10.17-15.19.16:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.10.17-15.19.17:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.10.17-15.19.17:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.10.17-15.19.17:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.10.17-15.19.18:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.10.17-15.19.18:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.10.17-15.19.18:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.10.17-15.19.18:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.10.17-15.19.26:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.10.17-15.19.26:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.10.17-15.19.27:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.10.17-15.19.27:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.10.17-15.19.27:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.10.17-15.19.27:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.10.17-15.19.27:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.10.17-15.19.27:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.10.17-15.19.28:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.10.17-15.19.28:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.10.17-15.19.28:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.10.17-15.19.28:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.10.17-15.19.28:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.10.17-15.19.28:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.10.17-15.19.29:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.10.17-15.19.29:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.10.17-15.19.29:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.10.17-15.19.29:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.10.17-15.19.33:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.10.17-15.19.33:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.10.17-15.19.33:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.10.17-15.19.34:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.10.17-15.19.34:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.10.17-15.19.34:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.10.17-15.19.34:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.10.17-15.19.35:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.10.17-15.19.36:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.10.17-15.19.37:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.10.17-15.19.37:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.10.17-15.19.37:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.10.17-15.19.37:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.10.17-15.19.38:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.10.17-15.19.38:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.10.17-15.19.38:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.10.17-15.19.38:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.10.17-15.19.38:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.10.17-15.19.38:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.10.17-15.19.39:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.10.17-15.19.41:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.10.17-15.19.41:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.10.17-15.19.42:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.10.17-15.19.45:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.10.17-15.19.45:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.10.17-15.19.46:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.10.17-15.19.46:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.10.17-15.19.47:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.10.17-15.19.47:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.10.17-15.19.47:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.10.17-15.19.47:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.10.17-15.19.47:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.10.17-15.19.48:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.10.17-15.19.48:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.10.17-15.19.48:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.10.17-15.19.49:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.10.17-15.19.49:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.10.17-15.19.49:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.10.17-15.19.49:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.10.17-15.19.49:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.10.17-15.19.49:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.10.17-15.19.49:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.10.17-15.19.49:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.10.17-15.19.49:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.10.17-15.19.49:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.10.17-15.19.51:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.10.17-15.19.51:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.10.17-15.19.52:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.10.17-15.19.52:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.10.17-15.19.53:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.10.17-15.19.53:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.10.17-15.19.53:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.10.17-15.19.53:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.10.17-15.19.54:015][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.10.17-15.19.54:134][  0]LogStaticMesh: Built static mesh [0.14s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.10.17-15.19.55:069][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.10.17-15.19.58:048][  0]LogSavePackage: Moving '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Saved/Floor_400x400CD8771384DCBE15B0D9D44A07ACC0297.tmp' to '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.10.17-15.19.58:170][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.10.17-15.19.58:177][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.17-15.19.58:178][  0]LightingResults: New page: Lighting Build
+[2020.10.17-15.19.58:181][  0]MapCheck: New page: Map Check
+[2020.10.17-15.19.58:181][  0]LightingResults: New page: Lighting Build
+[2020.10.17-15.20.02:243][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.17-15.20.02:360][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.17-15.20.02:734][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.17-15.20.02:839][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 106.061ms to complete.
+[2020.10.17-15.20.02:839][  0]LogFileHelpers: Loading map 'Minimal_Default' took 4.662
+[2020.10.17-15.20.05:026][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-15.20.05:099][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-15.20.05:108][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-15.20.05:117][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.17-15.20.05:659][  0]LogCollectionManager: Loaded 0 collections in 0.002241 seconds
+[2020.10.17-15.20.06:301][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Saved/Collections/' took 0.01s
+[2020.10.17-15.20.06:301][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/Developers/Felidre/Collections/' took 0.01s
+[2020.10.17-15.20.06:301][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/Collections/' took 0.01s
+[2020.10.17-15.20.06:301][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.10.17-15.20.06:372][  0]LogContentBrowser: Native class hierarchy populated in 0.0490 seconds. Added 2572 classes and 603 folders.
+[2020.10.17-15.20.06:725][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.17-15.20.09:747][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.17-15.20.10:064][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.10.17-15.20.12:288][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.17-15.20.12:372][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.17-15.20.12:487][  0]LogSlate: Took 0.033148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.17-15.20.13:569][  0]LogRenderer: Reallocating scene render targets to support 1220x556 Format 10 NumSamples 1 (Frame:1).
+[2020.10.17-15.20.15:441][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.17-15.20.15:970][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.17-15.20.15:970][  0]LogLoad: (Engine Initialization) Total time: 258.50 seconds
+[2020.10.17-15.20.15:970][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.17-15.20.16:761][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.17-15.20.17:162][  2]LogAssetRegistry: Asset discovery search completed in 207.8306 seconds
+[2020.10.17-15.20.17:164][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.10.17-15.20.17:164][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2020.10.17-15.24.52:016][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.25.29:029][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.25.29:540][402]LogRenderer: Reallocating scene render targets to support 1220x564 Format 10 NumSamples 1 (Frame:3680).
+[2020.10.17-15.25.29:591][403]LogRenderer: Reallocating scene render targets to support 1220x568 Format 10 NumSamples 1 (Frame:3682).
+[2020.10.17-15.32.24:883][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.32.25:109][807]LogRenderer: Reallocating scene render targets to support 1220x572 Format 10 NumSamples 1 (Frame:5967).
+[2020.10.17-15.32.25:160][808]LogRenderer: Reallocating scene render targets to support 1220x576 Format 10 NumSamples 1 (Frame:5969).
+[2020.10.17-15.32.25:212][809]LogRenderer: Reallocating scene render targets to support 1220x580 Format 10 NumSamples 1 (Frame:5971).
+[2020.10.17-15.32.25:265][810]LogRenderer: Reallocating scene render targets to support 1220x584 Format 10 NumSamples 1 (Frame:5973).
+[2020.10.17-15.32.25:316][811]LogRenderer: Reallocating scene render targets to support 1220x588 Format 10 NumSamples 1 (Frame:5975).
+[2020.10.17-15.32.26:901][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.17-15.32.46:481][693]Cmd: TRANSACTION UNDO
+[2020.10.17-15.32.46:481][693]LogEditorTransaction: Undo Scale Actors
+[2020.10.17-15.32.47:101][693]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.17-15.33.16:195][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.17-15.33.26:807][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.17-15.33.33:477][320]Cmd: TRANSACTION UNDO
+[2020.10.17-15.33.33:478][320]LogEditorTransaction: Undo Scale Actors
+[2020.10.17-15.33.34:083][333]Cmd: TRANSACTION UNDO
+[2020.10.17-15.33.34:083][333]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.17-15.33.34:743][362]Cmd: TRANSACTION UNDO
+[2020.10.17-15.33.34:743][362]LogEditorTransaction: Undo Scale Actors
+[2020.10.17-15.33.35:434][403]Cmd: TRANSACTION UNDO
+[2020.10.17-15.33.35:434][403]LogEditorTransaction: Undo Scale Actors
+[2020.10.17-15.33.35:867][429]Cmd: TRANSACTION UNDO
+[2020.10.17-15.33.35:867][429]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.17-15.33.36:348][455]Cmd: TRANSACTION UNDO
+[2020.10.17-15.33.36:348][455]LogEditorTransaction: Undo Scale Actors
+[2020.10.17-15.33.36:968][492]Cmd: TRANSACTION UNDO
+[2020.10.17-15.33.36:968][492]LogEditorTransaction: Undo Scale Actors
+[2020.10.17-15.33.37:368][516]Cmd: TRANSACTION UNDO
+[2020.10.17-15.33.37:368][516]LogEditorTransaction: Undo Scale Actors
+[2020.10.17-15.33.38:274][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.17-15.33.39:247][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.17-15.33.42:542][821]Cmd: TRANSACTION UNDO
+[2020.10.17-15.33.42:542][821]LogEditorTransaction: Undo Move Actors
+[2020.10.17-15.33.43:091][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.17-15.34.16:204][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2020.10.17-15.34.46:702][383]LogSavePackage: Moving '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Saved/Minimal_Default_Auto1EA5881264617F42E24EAB5B4AC734D7B.tmp' to '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2020.10.17-15.34.46:751][383]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 1.992
+[2020.10.17-15.34.46:751][383]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.992
+[2020.10.17-15.37.18:571][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table2)
+[2020.10.17-15.37.23:240][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table3)
+[2020.10.17-15.37.30:898][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.17-15.37.55:348][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.17-15.38.07:073][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair2)
+[2020.10.17-15.40.11:551][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.17-15.40.27:701][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair2)
+[2020.10.17-15.41.21:825][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.41.22:914][806]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.17-15.41.54:017][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair4)
+[2020.10.17-15.42.09:617][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.17-15.42.11:839][685]Cmd: TRANSACTION UNDO
+[2020.10.17-15.42.11:839][685]LogEditorTransaction: Undo Move Actors
+[2020.10.17-15.42.24:239][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.42.28:288][539]Cmd: TRANSACTION UNDO
+[2020.10.17-15.42.28:288][539]LogEditorTransaction: Undo Set Scale
+[2020.10.17-15.42.42:253][ 52]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.17-15.42.45:308][183]Cmd: TRANSACTION UNDO
+[2020.10.17-15.42.45:308][183]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.17-15.42.45:760][205]Cmd: TRANSACTION UNDO
+[2020.10.17-15.42.45:760][205]LogEditorTransaction: Undo Set Scale
+[2020.10.17-15.42.47:861][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.42.54:763][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2020.10.17-15.43.09:203][573]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.10.17-15.43.16:840][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.43.21:438][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.43.25:761][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.43.33:353][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair3)
+[2020.10.17-15.43.37:651][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair2)
+[2020.10.17-15.43.38:534][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair2)
+[2020.10.17-15.43.46:679][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.17-15.43.52:765][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.17-15.43.54:817][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair4)
+[2020.10.17-15.44.31:608][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.17-15.44.38:226][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair3)
+[2020.10.17-15.44.43:467][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.17-15.44.52:403][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.45.11:441][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair5)
+[2020.10.17-15.45.25:019][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair5)
+[2020.10.17-15.45.28:707][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair6)
+[2020.10.17-15.45.33:076][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair5)
+[2020.10.17-15.45.53:796][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue2)
+[2020.10.17-15.45.58:997][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.46.04:029][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.46.08:436][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table3)
+[2020.10.17-15.46.35:415][960]LogSavePackage: Moving '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Saved/Minimal_Default_Auto27E1474D94A2111639DF1F3ADE5C03CDB.tmp' to '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2020.10.17-15.46.35:420][960]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.243
+[2020.10.17-15.46.35:420][960]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.243
+[2020.10.17-15.47.17:976][194]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.17-15.47.19:106][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair5)
+[2020.10.17-15.47.23:388][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table3)
+[2020.10.17-15.47.26:666][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.47.33:662][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table3)
+[2020.10.17-15.47.38:753][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue3)
+[2020.10.17-15.47.45:927][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.47.57:351][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.17-15.48.04:112][814]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.17-15.48.04:305][814]LogSavePackage: Moving '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Saved/Minimal_Default35EF702347AA0BDD771C4D8AF206FE63.tmp' to '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.17-15.48.04:526][814]LogSavePackage: Moving '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Saved/Minimal_Default_BuiltData5A6B83E24F42198F919BE886EEB4E55B.tmp' to '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.10.17-15.48.34:446][ 10]LogSavePackage: Moving '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Saved/Minimal_Default439CFA494D371FDD4D8F5A8F25C2074A.tmp' to '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.17-15.48.34:521][ 10]LogSavePackage: Moving '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Saved/Minimal_Default_BuiltData4D5ABE37448022CB45A3F3881A87CA48.tmp' to '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.10.17-15.48.38:896][145]LogSavePackage: Moving '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Saved/Minimal_DefaultEAF38F014C5C7C68B600E29F42A2B3FE.tmp' to '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.17-15.48.38:971][145]LogSavePackage: Moving '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Saved/Minimal_Default_BuiltData4794D1F641044A7E4E867D9094883443.tmp' to '../../../../../../Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.10.17-15.48.43:938][421]LogSlate: Window 'TheMaze_PChrascina - Unreal Editor' being destroyed
+[2020.10.17-15.48.43:940][421]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.17-15.48.45:237][422]Cmd: QUIT_EDITOR
+[2020.10.17-15.48.46:012][422]LogExit: Preparing to exit.
+[2020.10.17-15.48.48:336][422]LogExit: Editor shut down
+[2020.10.17-15.48.48:337][422]LogExit: Transaction tracking system shut down
+[2020.10.17-15.48.52:655][422]LogExit: Object subsystem successfully closed.
+[2020.10.17-15.48.52:957][422]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.10.17-15.48.53:024][422]LogD3D11RHI: Shutdown
+[2020.10.17-15.48.53:024][422]LogD3D11RHI: CleanupD3DDevice
+[2020.10.17-15.48.53:110][422]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.10.17-15.48.56:165][422]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2020.10.17-15.48.56:165][422]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2020.10.17-15.48.56:165][422]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2020.10.17-15.48.56:189][422]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2020.10.17-15.48.56:189][422]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2020.10.17-15.48.56:189][422]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2020.10.17-15.48.56:190][422]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2020.10.17-15.48.56:204][422]LogModuleManager: Shutting down and abandoning module MeshBuilder (598)
+[2020.10.17-15.48.56:204][422]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2020.10.17-15.48.56:221][422]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2020.10.17-15.48.56:318][422]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2020.10.17-15.48.56:345][422]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2020.10.17-15.48.56:345][422]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2020.10.17-15.48.56:345][422]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2020.10.17-15.48.56:345][422]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2020.10.17-15.48.56:345][422]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2020.10.17-15.48.56:345][422]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2020.10.17-15.48.56:369][422]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2020.10.17-15.48.56:391][422]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2020.10.17-15.48.56:391][422]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2020.10.17-15.48.56:391][422]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2020.10.17-15.48.56:403][422]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2020.10.17-15.48.56:432][422]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2020.10.17-15.48.56:477][422]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2020.10.17-15.48.56:477][422]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2020.10.17-15.48.56:588][422]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2020.10.17-15.48.56:589][422]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2020.10.17-15.48.56:589][422]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2020.10.17-15.48.56:620][422]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2020.10.17-15.48.56:694][422]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2020.10.17-15.48.56:863][422]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2020.10.17-15.48.56:930][422]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2020.10.17-15.48.56:991][422]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2020.10.17-15.48.57:035][422]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2020.10.17-15.48.57:035][422]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2020.10.17-15.48.57:044][422]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2020.10.17-15.48.57:044][422]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2020.10.17-15.48.57:044][422]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2020.10.17-15.48.57:328][422]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2020.10.17-15.48.57:328][422]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2020.10.17-15.48.57:329][422]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2020.10.17-15.48.57:329][422]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2020.10.17-15.48.57:329][422]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2020.10.17-15.48.57:375][422]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2020.10.17-15.48.57:406][422]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2020.10.17-15.48.57:424][422]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2020.10.17-15.48.57:433][422]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2020.10.17-15.48.57:433][422]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2020.10.17-15.48.57:433][422]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2020.10.17-15.48.57:451][422]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2020.10.17-15.48.57:451][422]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2020.10.17-15.48.57:467][422]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2020.10.17-15.48.57:467][422]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2020.10.17-15.48.57:467][422]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2020.10.17-15.48.57:467][422]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2020.10.17-15.48.57:559][422]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2020.10.17-15.48.57:593][422]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2020.10.17-15.48.57:602][422]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2020.10.17-15.48.57:626][422]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2020.10.17-15.48.57:653][422]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2020.10.17-15.48.57:736][422]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2020.10.17-15.48.57:769][422]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2020.10.17-15.48.57:791][422]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2020.10.17-15.48.57:851][422]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2020.10.17-15.48.57:851][422]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2020.10.17-15.48.57:879][422]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2020.10.17-15.48.57:879][422]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2020.10.17-15.48.57:941][422]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2020.10.17-15.48.57:941][422]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2020.10.17-15.48.57:948][422]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2020.10.17-15.48.57:987][422]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2020.10.17-15.48.58:061][422]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2020.10.17-15.48.58:061][422]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2020.10.17-15.48.58:061][422]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2020.10.17-15.48.58:077][422]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2020.10.17-15.48.58:102][422]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2020.10.17-15.48.58:102][422]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2020.10.17-15.48.58:123][422]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2020.10.17-15.48.58:123][422]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2020.10.17-15.48.58:123][422]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2020.10.17-15.48.58:144][422]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2020.10.17-15.48.58:164][422]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2020.10.17-15.48.58:164][422]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2020.10.17-15.48.58:164][422]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2020.10.17-15.48.58:164][422]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2020.10.17-15.48.58:164][422]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2020.10.17-15.48.58:164][422]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2020.10.17-15.48.58:216][422]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2020.10.17-15.48.58:226][422]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2020.10.17-15.48.58:245][422]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2020.10.17-15.48.58:245][422]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2020.10.17-15.48.58:245][422]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.10.17-15.48.58:367][422]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.10.17-15.48.58:394][422]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.10.17-15.48.58:394][422]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.10.17-15.48.58:394][422]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.10.17-15.48.58:409][422]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.10.17-15.48.58:409][422]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.10.17-15.48.58:409][422]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.10.17-15.48.58:436][422]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.10.17-15.48.58:436][422]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.10.17-15.48.58:436][422]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.10.17-15.48.58:436][422]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.10.17-15.48.58:436][422]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.10.17-15.48.58:436][422]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.10.17-15.48.58:436][422]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.10.17-15.48.58:482][422]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2020.10.17-15.48.58:482][422]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2020.10.17-15.48.58:482][422]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2020.10.17-15.48.58:482][422]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2020.10.17-15.48.58:493][422]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.10.17-15.48.58:493][422]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.10.17-15.48.58:493][422]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.10.17-15.48.58:493][422]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.10.17-15.48.58:545][422]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.10.17-15.48.58:545][422]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.10.17-15.48.58:545][422]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.10.17-15.48.58:545][422]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.10.17-15.48.58:545][422]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.10.17-15.48.58:545][422]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.10.17-15.48.58:545][422]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2020.10.17-15.48.58:569][422]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2020.10.17-15.48.58:569][422]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.10.17-15.48.58:569][422]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.10.17-15.48.58:624][422]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.10.17-15.48.58:626][422]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.10.17-15.48.58:626][422]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.10.17-15.48.58:637][422]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.10.17-15.48.58:651][422]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.10.17-15.48.58:651][422]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.10.17-15.48.58:651][422]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.10.17-15.48.58:651][422]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.10.17-15.48.58:651][422]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.10.17-15.48.58:655][422]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.10.17-15.48.58:690][422]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.10.17-15.48.58:702][422]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.10.17-15.48.58:730][422]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.10.17-15.48.58:730][422]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.10.17-15.48.58:730][422]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.10.17-15.48.58:730][422]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.10.17-15.48.58:730][422]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.10.17-15.48.58:754][422]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2020.10.17-15.48.58:790][422]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.10.17-15.48.58:790][422]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.10.17-15.48.58:790][422]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.10.17-15.48.58:790][422]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2020.10.17-15.48.58:822][422]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.10.17-15.48.58:823][422]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2020.10.17-15.48.58:823][422]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2020.10.17-15.48.58:829][422]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.10.17-15.48.58:829][422]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.10.17-15.48.58:930][422]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.10.17-15.48.59:054][422]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.10.17-15.48.59:054][422]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.10.17-15.48.59:082][422]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.10.17-15.48.59:082][422]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.10.17-15.48.59:082][422]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.10.17-15.48.59:082][422]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.10.17-15.48.59:111][422]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.10.17-15.48.59:150][422]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.10.17-15.48.59:170][422]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.10.17-15.48.59:171][422]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.10.17-15.48.59:191][422]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.10.17-15.48.59:228][422]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.10.17-15.48.59:230][422]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.10.17-15.48.59:259][422]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.10.17-15.48.59:259][422]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.10.17-15.48.59:259][422]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.10.17-15.48.59:287][422]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.10.17-15.48.59:323][422]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2020.10.17-15.48.59:340][422]LogModuleManager: Shutting down and abandoning module Media (243)
+[2020.10.17-15.48.59:345][422]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2020.10.17-15.48.59:345][422]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2020.10.17-15.48.59:345][422]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2020.10.17-15.48.59:385][422]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2020.10.17-15.48.59:385][422]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2020.10.17-15.48.59:385][422]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2020.10.17-15.48.59:385][422]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2020.10.17-15.48.59:416][422]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2020.10.17-15.48.59:439][422]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2020.10.17-15.48.59:439][422]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2020.10.17-15.48.59:505][422]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2020.10.17-15.48.59:530][422]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2020.10.17-15.48.59:586][422]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2020.10.17-15.48.59:586][422]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2020.10.17-15.48.59:616][422]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2020.10.17-15.48.59:658][422]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2020.10.17-15.48.59:737][422]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2020.10.17-15.48.59:738][422]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2020.10.17-15.48.59:793][422]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2020.10.17-15.48.59:794][422]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.10.17-15.48.59:797][422]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2020.10.17-15.48.59:812][422]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2020.10.17-15.48.59:812][422]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2020.10.17-15.48.59:812][422]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2020.10.17-15.48.59:813][422]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2020.10.17-15.48.59:813][422]LogModuleManager: Shutting down and abandoning module Core (188)
+[2020.10.17-15.48.59:813][422]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2020.10.17-15.48.59:813][422]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.10.17-15.48.59:813][422]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.10.17-15.48.59:864][422]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.10.17-15.48.59:892][422]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.10.17-15.48.59:892][422]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2020.10.17-15.48.59:911][422]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.10.17-15.48.59:933][422]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2020.10.17-15.48.59:933][422]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2020.10.17-15.48.59:955][422]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2020.10.17-15.48.59:973][422]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2020.10.17-15.48.59:974][422]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2020.10.17-15.49.00:072][422]LogDerivedDataCache: Shutdown
+[2020.10.17-15.49.00:073][422]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2020.10.17-15.49.00:089][422]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2020.10.17-15.49.00:089][422]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2020.10.17-15.49.00:096][422]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2020.10.17-15.49.00:120][422]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2020.10.17-15.49.00:141][422]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2020.10.17-15.49.00:141][422]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2020.10.17-15.49.00:199][422]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2020.10.17-15.49.00:199][422]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2020.10.17-15.49.00:199][422]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2020.10.17-15.49.00:219][422]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2020.10.17-15.49.00:228][422]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2020.10.17-15.49.00:228][422]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2020.10.17-15.49.00:228][422]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2020.10.17-15.49.00:228][422]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2020.10.17-15.49.00:228][422]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2020.10.17-15.49.00:228][422]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2020.10.17-15.49.00:228][422]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2020.10.17-15.49.00:228][422]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2020.10.17-15.49.00:228][422]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2020.10.17-15.49.00:228][422]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2020.10.17-15.49.00:250][422]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.10.17-15.49.00:272][422]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2020.10.17-15.49.00:278][422]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.10.17-15.49.00:278][422]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.10.17-15.49.00:282][422]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2020.10.17-15.49.00:282][422]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2020.10.17-15.49.00:349][422]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2020.10.17-15.49.00:349][422]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2020.10.17-15.49.00:349][422]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2020.10.17-15.49.00:349][422]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2020.10.17-15.49.00:349][422]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2020.10.17-15.49.00:349][422]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2020.10.17-15.49.00:349][422]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2020.10.17-15.49.00:349][422]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2020.10.17-15.49.00:349][422]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2020.10.17-15.49.00:349][422]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2020.10.17-15.49.00:349][422]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2020.10.17-15.49.00:349][422]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.10.17-15.49.00:350][422]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2020.10.17-15.49.00:350][422]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2020.10.17-15.49.00:372][422]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2020.10.17-15.49.00:372][422]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2020.10.17-15.49.00:372][422]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2020.10.17-15.49.00:372][422]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2020.10.17-15.49.00:409][422]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2020.10.17-15.49.00:452][422]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2020.10.17-15.49.00:520][422]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2020.10.17-15.49.00:539][422]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.10.17-15.49.00:539][422]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6B8A62BA-4D08-E768-25E0-37A4EAF2AB86%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=46c5cdc049f66afa3045a4a5c1b88412%7C3d816f00dd494cedb2b85bce78c9e1b8%7Cc56451cf-7b1b-473b-b9eb-482066e06d07&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.10.17-15.49.00:543][422]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2020.10.17-15.49.00:604][422]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2020.10.17-15.49.00:604][422]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2020.10.17-15.49.00:604][422]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2020.10.17-15.49.00:604][422]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2020.10.17-15.49.00:604][422]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2020.10.17-15.49.00:604][422]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2020.10.17-15.49.00:604][422]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2020.10.17-15.49.00:605][422]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2020.10.17-15.49.00:605][422]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2020.10.17-15.49.00:605][422]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.10.17-15.49.00:605][422]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2020.10.17-15.49.00:605][422]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.10.17-15.49.00:648][422]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.10.17-15.49.00:655][422]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.10.17-15.49.00:703][422]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.10.17-15.49.00:767][422]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.10.17-15.49.00:767][422]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.10.17-15.49.00:767][422]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.10.17-15.49.00:792][422]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.10.17-15.49.00:801][422]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.10.17-15.49.00:801][422]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.10.17-15.49.00:819][422]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.10.17-15.49.00:819][422]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.10.17-15.49.00:819][422]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.10.17-15.49.00:819][422]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.10.17-15.49.00:832][422]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.10.17-15.49.00:832][422]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.10.17-15.49.00:857][422]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.10.17-15.49.00:857][422]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.10.17-15.49.00:923][422]LogExit: Exiting.
+[2020.10.17-15.49.00:996][422]Log file closed, 10/17/20 17:49:00
