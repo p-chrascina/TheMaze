@@ -1,0 +1,363 @@
+﻿Log file open, 01/14/21 15:37:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheMaze_PChrascina
+LogInit: Display: Project file not found: ../../../TheMaze_PChrascina/TheMaze_PChrascina.uproject
+LogInit: Display: 	Attempting to find via project info helper.
+LogUProjectInfo: Found projects:
+LogPakFile: Display: Found Pak file ../../../TheMaze_PChrascina/Content/Paks/TheMaze_PChrascina-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../TheMaze_PChrascina/Content/Paks/TheMaze_PChrascina-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.236057
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.196s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:36:23
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Users/Felidre/Desktop/Studia/Silniki gier/TheMaze/TheMaze_PChrascina/Build/WindowsNoEditor/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+[2021.01.14-14.37.05:297][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2021.01.14-14.37.05:307][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2021.01.14-14.37.05:345][  0]LogHAL: Display: Platform has ~ 8 GB [8374956032 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.14-14.37.05:345][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2021.01.14-14.37.05:345][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2021.01.14-14.37.05:345][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.14-14.37.05:367][  0]LogInit: Computer: LAPTOP-4EKRA7ME
+[2021.01.14-14.37.05:367][  0]LogInit: User: Felidre
+[2021.01.14-14.37.05:367][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.14-14.37.05:367][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.14-14.37.05:367][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2021.01.14-14.37.05:367][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2021.01.14-14.37.05:367][  0]LogMemory: Process Physical Memory: 55.70 MB used, 55.70 MB peak
+[2021.01.14-14.37.05:367][  0]LogMemory: Process Virtual Memory: 63.46 MB used, 63.46 MB peak
+[2021.01.14-14.37.05:367][  0]LogMemory: Physical Memory: 5840.80 MB used,  2146.18 MB free, 7986.98 MB total
+[2021.01.14-14.37.05:367][  0]LogMemory: Virtual Memory: 4415.24 MB used,  2146.18 MB free, 134217728.00 MB total
+[2021.01.14-14.37.06:638][  0]LogInit: Using OS detected language (en-GB).
+[2021.01.14-14.37.06:638][  0]LogInit: Using OS detected locale (en-GB).
+[2021.01.14-14.37.06:656][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.01.14-14.37.06:787][  0]LogStreaming: Display: Took  0.149s to InitEngineTextLocalization.
+[2021.01.14-14.37.07:118][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.14-14.37.07:119][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.14-14.37.07:332][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.14-14.37.07:338][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.14-14.37.07:620][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2021.01.14-14.37.07:620][  0]LogD3D11RHI:       4055/0/3993 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.14-14.37.08:718][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.01.14-14.37.08:718][  0]LogD3D11RHI:       128/0/3993 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.14-14.37.08:867][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.14-14.37.08:867][  0]LogD3D11RHI:       0/0/3993 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.14-14.37.08:867][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.14-14.37.08:910][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.14-14.37.08:910][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2021.01.14-14.37.08:910][  0]LogWindows: EnumDisplayDevices:
+[2021.01.14-14.37.08:910][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2021.01.14-14.37.08:911][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2021.01.14-14.37.08:911][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.14-14.37.08:912][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.01.14-14.37.08:912][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2021.01.14-14.37.08:912][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.01.14-14.37.08:912][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.01.14-14.37.08:912][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2021.01.14-14.37.09:206][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.14-14.37.09:372][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global_SC and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2021.01.14-14.37.09:474][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
+[2021.01.14-14.37.09:475][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
+[2021.01.14-14.37.09:476][  0]LogRHI: Display: Failed to open default shader pipeline cache for TheMaze_PChrascina using shader platform 0.
+[2021.01.14-14.37.09:990][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.14-14.37.10:301][  0]LogSlate: Using FreeType 2.6.0
+[2021.01.14-14.37.10:346][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.14-14.37.10:620][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: TheMaze_PChrascina and no native library supported.
+[2021.01.14-14.37.10:620][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: TheMaze_PChrascina_SC and no native library supported.
+[2021.01.14-14.37.10:629][  0]LogRHI: Display: Failed to open default shader pipeline cache for TheMaze_PChrascina using shader platform 0.
+[2021.01.14-14.37.10:630][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: TheMaze_PChrascina and no native library supported.
+[2021.01.14-14.37.10:630][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: TheMaze_PChrascina_SC and no native library supported.
+[2021.01.14-14.37.10:630][  0]LogRHI: Display: Failed to open default shader pipeline cache for TheMaze_PChrascina using shader platform 0.
+[2021.01.14-14.37.10:630][  0]LogInit: Using OS detected language (en-GB).
+[2021.01.14-14.37.10:630][  0]LogInit: Using OS detected locale (en-GB).
+[2021.01.14-14.37.10:630][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the language.
+[2021.01.14-14.37.10:630][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2021.01.14-14.37.10:652][  0]LogStreaming: Display: Took  0.022s to InitGameTextLocalization.
+[2021.01.14-14.37.10:707][  0]LogAssetRegistry: FAssetRegistry took 0.0354 seconds to start up
+[2021.01.14-14.37.11:414][  0]LogStreaming: Display: Flushing async loaders.
+[2021.01.14-14.37.11:491][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.034259 seconds
+[2021.01.14-14.37.11:506][  0]LogPakFile: New pak file ../../../TheMaze_PChrascina/Content/Paks/TheMaze_PChrascina-WindowsNoEditor.pak added to pak precacher.
+[2021.01.14-14.37.11:627][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2021.01.14-14.37.12:098][  0]LogNetVersion: TheMaze_PChrascina 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1939499750)
+[2021.01.14-14.37.14:193][  0]LogMoviePlayer: Initializing movie player
+[2021.01.14-14.37.14:878][  0]LogSlate: Slate font cache was flushed
+[2021.01.14-14.37.15:086][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.14-14.37.15:086][  0]LogOcInput: OculusInput pre-init called
+[2021.01.14-14.37.15:100][  0]LogUObjectArray: 33875 objects as part of root set at end of initial load.
+[2021.01.14-14.37.15:100][  0]LogUObjectAllocator: 5085280 out of 0 bytes used by permanent object pool.
+[2021.01.14-14.37.15:100][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.14-14.37.15:139][  0]LogEngine: Initializing Engine...
+[2021.01.14-14.37.15:146][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.14-14.37.15:192][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.01.14-14.37.15:192][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.01.14-14.37.15:192][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.01.14-14.37.15:192][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.01.14-14.37.15:723][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.14-14.37.15:927][  0]LogInit: XAudio2 using 'Słuchawki HUAWEI (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.14-14.37.16:072][  0]LogInit: FAudioDevice initialized.
+[2021.01.14-14.37.16:124][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.14-14.37.16:124][  0]LogInit: Texture streaming: Enabled
+[2021.01.14-14.37.16:623][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.14-14.37.16:662][  0]LogInit: Display: Game Engine Initialized.
+[2021.01.14-14.37.16:662][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.01.14-14.37.16:662][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.01.14-14.37.16:662][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.01.14-14.37.16:663][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.01.14-14.37.16:663][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.01.14-14.37.16:706][  0]LogInit: Display: Starting Game.
+[2021.01.14-14.37.16:706][  0]LogNet: Browse: /Game/Level1?Name=Player
+[2021.01.14-14.37.16:712][  0]LogLoad: LoadMap: /Game/Level1?Name=Player
+[2021.01.14-14.37.17:716][  0]LogAIModule: Creating AISystem for world Level1
+[2021.01.14-14.37.17:730][  0]LogLoad: Game class is 'GameModeBase'
+[2021.01.14-14.37.18:319][  0]LogWorld: Bringing World /Game/Level1.Level1 up for play (max tick rate 0) at 2021.01.14-15.37.18
+[2021.01.14-14.37.18:353][  0]LogWorld: Bringing up level for play took: 0.620907
+[2021.01.14-14.37.18:500][  0]LogBlueprintUserMessages: [Level1_C_4] Welcome to the Maze!
+[2021.01.14-14.37.18:571][  0]LogLoad: Took 1.859250 seconds to LoadMap(/Game/Level1)
+[2021.01.14-14.37.18:854][  0]LogRenderer: Reallocating scene render targets to support 1536x864 Format 10 NumSamples 1 (Frame:1).
+[2021.01.14-14.37.18:854][  0]LogSlate: Took 0.021093 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont' (155K)
+[2021.01.14-14.37.18:917][  0]LogLoad: (Engine Initialization) Total time: 18.57 seconds
+[2021.01.14-14.37.19:451][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.14-14.37.21:463][ 79]LogBlueprintUserMessages: [Level1_C_4] Let's see how quickly you can find the way out
+[2021.01.14-14.38.06:002][839]LogSlate: Request Window 'TheMaze_PChrascina (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.01.14-14.38.06:069][839]LogSlate: Window 'TheMaze_PChrascina (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.01.14-14.38.06:070][839]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.14-14.38.06:286][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.14-14.38.06:337][839]LogEngine: All Windows Closed
+[2021.01.14-14.38.06:337][839]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.01.14-14.38.07:227][840]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.01.14-14.38.07:227][840]LogExit: Preparing to exit.
+[2021.01.14-14.38.07:227][840]LogMoviePlayer: Shutting down movie player
+[2021.01.14-14.38.07:286][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.14-14.38.07:298][840]LogExit: Game engine shut down
+[2021.01.14-14.38.07:415][840]LogExit: Object subsystem successfully closed.
+[2021.01.14-14.38.07:515][840]LogD3D11RHI: Shutdown
+[2021.01.14-14.38.07:515][840]LogD3D11RHI: CleanupD3DDevice
+[2021.01.14-14.38.07:520][840]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module AutomationController (186)
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module AutomationWorker (184)
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module Voice (182)
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module AIModule (180)
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module GameplayDebugger (179)
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module NavigationSystem (177)
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (174)
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (172)
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (170)
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (168)
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module CharacterAI (166)
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module SessionServices (164)
+[2021.01.14-14.38.07:520][840]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (162)
+[2021.01.14-14.38.07:521][840]LogModuleManager: Shutting down and abandoning module MovieScene (160)
+[2021.01.14-14.38.07:521][840]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (158)
+[2021.01.14-14.38.07:521][840]LogModuleManager: Shutting down and abandoning module ProfilerService (156)
+[2021.01.14-14.38.07:718][840]LogModuleManager: Shutting down and abandoning module TaskGraph (154)
+[2021.01.14-14.38.07:735][840]LogModuleManager: Shutting down and abandoning module SteamVRController (152)
+[2021.01.14-14.38.07:736][840]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (150)
+[2021.01.14-14.38.07:736][840]LogModuleManager: Shutting down and abandoning module OculusInput (148)
+[2021.01.14-14.38.07:736][840]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (146)
+[2021.01.14-14.38.07:736][840]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (144)
+[2021.01.14-14.38.07:736][840]LogModuleManager: Shutting down and abandoning module CableComponent (142)
+[2021.01.14-14.38.07:736][840]LogModuleManager: Shutting down and abandoning module AudioCapture (140)
+[2021.01.14-14.38.07:736][840]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (138)
+[2021.01.14-14.38.07:736][840]LogModuleManager: Shutting down and abandoning module AndroidPermission (136)
+[2021.01.14-14.38.07:736][840]LogModuleManager: Shutting down and abandoning module MediaCompositing (134)
+[2021.01.14-14.38.07:736][840]LogModuleManager: Shutting down and abandoning module LinearTimecode (132)
+[2021.01.14-14.38.07:736][840]LogModuleManager: Shutting down and abandoning module ImgMedia (130)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module HTML5Networking (128)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module BackChannel (126)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module AppleVision (124)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module AppleImageUtils (122)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (120)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module GeometryCache (118)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module DatasmithContent (116)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module EditableMesh (114)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (112)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module PhysXVehicles (110)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (108)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (106)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module ActorSequence (104)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module UdpMessaging (102)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module TcpMessaging (100)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module FacialAnimation (98)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (96)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module AISupportModule (94)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module Paper2D (92)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (90)
+[2021.01.14-14.38.07:738][840]LogModuleManager: Shutting down and abandoning module WmfMedia (88)
+[2021.01.14-14.38.07:739][840]LogModuleManager: Shutting down and abandoning module Media (87)
+[2021.01.14-14.38.07:745][840]LogModuleManager: Shutting down and abandoning module PacketHandler (84)
+[2021.01.14-14.38.07:745][840]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (82)
+[2021.01.14-14.38.07:773][840]LogModuleManager: Shutting down and abandoning module MediaAssets (80)
+[2021.01.14-14.38.07:773][840]LogModuleManager: Shutting down and abandoning module Overlay (78)
+[2021.01.14-14.38.07:773][840]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2021.01.14-14.38.07:773][840]LogModuleManager: Shutting down and abandoning module SlateReflector (74)
+[2021.01.14-14.38.07:818][840]LogModuleManager: Shutting down and abandoning module Slate (72)
+[2021.01.14-14.38.07:818][840]LogModuleManager: Shutting down and abandoning module MRMesh (70)
+[2021.01.14-14.38.07:818][840]LogModuleManager: Shutting down and abandoning module Messaging (68)
+[2021.01.14-14.38.07:818][840]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (66)
+[2021.01.14-14.38.07:818][840]LogModuleManager: Shutting down and abandoning module XAudio2 (64)
+[2021.01.14-14.38.07:818][840]LogModuleManager: Shutting down and abandoning module Networking (62)
+[2021.01.14-14.38.07:818][840]LogModuleManager: Shutting down and abandoning module Core (60)
+[2021.01.14-14.38.07:818][840]LogModuleManager: Shutting down and abandoning module LevelSequence (58)
+[2021.01.14-14.38.07:818][840]LogModuleManager: Shutting down and abandoning module ImageWrapper (54)
+[2021.01.14-14.38.07:818][840]LogModuleManager: Shutting down and abandoning module InputCore (52)
+[2021.01.14-14.38.07:819][840]LogModuleManager: Shutting down and abandoning module PhysXCooking (50)
+[2021.01.14-14.38.07:819][840]LogModuleManager: Shutting down and abandoning module SteamVR (48)
+[2021.01.14-14.38.07:819][840]LogModuleManager: Shutting down and abandoning module OculusHMD (46)
+[2021.01.14-14.38.07:819][840]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (44)
+[2021.01.14-14.38.07:819][840]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (42)
+[2021.01.14-14.38.07:819][840]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (38)
+[2021.01.14-14.38.07:819][840]LogModuleManager: Shutting down and abandoning module HTTP (33)
+[2021.01.14-14.38.07:893][840]LogModuleManager: Shutting down and abandoning module SSL (32)
+[2021.01.14-14.38.07:893][840]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2021.01.14-14.38.07:893][840]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2021.01.14-14.38.07:893][840]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2021.01.14-14.38.07:896][840]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2021.01.14-14.38.07:896][840]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2021.01.14-14.38.07:896][840]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2021.01.14-14.38.07:896][840]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2021.01.14-14.38.07:896][840]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2021.01.14-14.38.07:896][840]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2021.01.14-14.38.07:896][840]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2021.01.14-14.38.07:896][840]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2021.01.14-14.38.07:896][840]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2021.01.14-14.38.07:896][840]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2021.01.14-14.38.07:896][840]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2021.01.14-14.38.07:921][840]LogExit: Exiting.
+[2021.01.14-14.38.07:923][840]Log file closed, 01/14/21 15:38:07
